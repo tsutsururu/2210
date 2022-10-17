@@ -1654,7 +1654,11 @@ unionfind findの仕様でindex番号がそのまま帰るので、find(-1)に�
 
 
 
+# 121D
 
+AC
+
+1:11:26
 
 
 
