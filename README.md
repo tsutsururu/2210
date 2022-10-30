@@ -2238,7 +2238,7 @@ https://www.rimse.or.jp/research/past/pdf/4th/work10.pdf
 
 # 1026
 
-134C Exception Handling  diff 136
+# 134C Exception Handling  diff 136
 
 解答遷移 WA AC
 
