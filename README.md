@@ -2476,12 +2476,36 @@ https://twitter.com/H20_dhmo/status/1586352305099902976
 https://aacord.hatenablog.com/entry/2020/04/22/015633
 
 
+# 151D Maze Master  diff 959 
+
+解答遷移 AC
+
+計 13:29
+
+備考
+
+➀　思考
+
+難しそうだけど、マス目少ないし始点を全探索して bfsして最大値求めれば良さそう。計算量も O((HW)^2)なので余裕　→ AC 
+
+➁ 補足
+
+思考が100%一致していたので念のため掲載
+
+https://blog.hamayanhamayan.com/entry/2020/01/12/225950
 
 
+# 178D  Redistribution  diff 875
 
+解答遷移 AC
 
+計 1時間 over
 
+備考
 
+➀　思考
+
+メモ化再帰で解けるし、ちょうどいいからエラストテネスみたいにこの問題でお勉強しよう! → python の関数の return 等の仕組みが意味わからん過ぎて時間が死ぬほど経過　→　諦めて素直にdpっぽい感じのコード書いたら通って意味不明
 
 
 
