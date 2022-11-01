@@ -2495,21 +2495,6 @@ https://aacord.hatenablog.com/entry/2020/04/22/015633
 https://blog.hamayanhamayan.com/entry/2020/01/12/225950
 
 
-# 178D  Redistribution  diff 875
-
-解答遷移 AC
-
-計 1時間 over
-
-備考
-
-➀　思考
-
-メモ化再帰で解けるし、ちょうどいいからエラストテネスみたいにこの問題でお勉強しよう! → python の関数の return 等の仕組みが意味わからん過ぎて時間が死ぬほど経過　→　諦めて素直にdpっぽい感じのコード書いたら通って意味不明
-
-
-
-
 
 
 
