@@ -2113,7 +2113,7 @@ Nにボールを入れるかどうかはAnにのみ依存するから、逆順�
 XについてX=X1* X2 と表現した場合にX1+X2が最小になるX1とX2を求めることができれば答えは X1-1 + X2-1 になると判断　→ 約数列挙の関数をそれっぽく変更してAC
 
 
-# ☆ 163D Sum of Large Numbers diff 163
+# 163D Sum of Large Numbers diff 163　　済
 
 解答遷移 AC
 
